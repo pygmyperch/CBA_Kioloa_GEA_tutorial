@@ -17,10 +17,10 @@ library(qvalue)
 
 
 # set the working directory to wherever you downloaded the files
-#setwd("/Users/brau0037/Library/CloudStorage/GoogleDrive-pygmyperch@gmail.com/My Drive/workshops/CBA_Workshop_Kioloa_2024")
-setwd("/Users/chrisbrauer/Library/CloudStorage/GoogleDrive-pygmyperch@gmail.com/My Drive/workshops/CBA_Workshop_Kioloa_2024")
+#setwd("/Users/chrisbrauer/Library/CloudStorage/GoogleDrive-pygmyperch@gmail.com/My Drive/workshops/CBA_Workshop_Kioloa_2024")
+setwd("path/to/dir")
 
-source("GEA_tutorial_functions.R")
+source("utils.R")
 
 ############################
 # 1. Data preparation
